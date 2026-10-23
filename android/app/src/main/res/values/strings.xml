@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">عربيات القاهرة</string>
+    <string name="title_activity_main">عربيات القاهرة</string>
+    <string name="package_name">com.farag22.cairodrive</string>
+    <string name="custom_url_scheme">com.farag22.cairodrive</string>
+</resources>
